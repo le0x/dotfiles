@@ -24,9 +24,9 @@ How to push
 
     homesick push dotfiles
     
-How to add a files
+## How to add a files ##
 
-## Move file ##
+Move file
 
     mv file ~/.homesick/repos/dotfiles
  
