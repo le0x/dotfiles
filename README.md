@@ -1,5 +1,5 @@
 # dotfiles #
-Use the homebrew, to the management of dotfiles.
+Use the homesick, to the management of dotfiles.
 - - -
 ## Install Homesick ##
 It will install the homesick on Mac.
