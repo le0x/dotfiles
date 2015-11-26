@@ -15,9 +15,6 @@ Creating a symbolic link to home
     homesick symlink dotfiles
 
 ## How to fix ##
-Note how to update dotfiles
-
-- - -
 
 How to commit
 
