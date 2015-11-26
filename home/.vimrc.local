@@ -1,0 +1,4 @@
+NeoBundle 'editorconfig/editorconfig-vim'
+NeoBundle 'Shougo/unite.vim'
+NeoBundle 'basyura/unite-rails'
+NeoBundle 'Shougo/neocomplete.vim'
