@@ -35,7 +35,3 @@ alias nginx.logs.access='tail -250f /usr/local/var/log/nginx/access.log'
 alias nginx.logs.default.access='tail -250f /usr/local/var/log/nginx/default.access.log'
 alias nginx.logs.default-ssl.access='tail -250f /usr/local/var/log/nginx/default-ssl.access.log'
 alias nginx.logs.phpmyadmin.access='tail -250f /usr/local/var/log/nginx/phpmyadmin.access.log'
-
-#git
-alias nginxfile.commit='cd ~/.serverfile/NginxFIle && git add * && git commit -m "update to nginx file." && cd -'
-alias nginxfile.update='cd ~/.serverfile/NginxFile && git remote add origin git@github.com:le0x/NginxFile.git && git push -u origin master && cd -'
